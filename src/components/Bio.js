@@ -64,7 +64,7 @@ export default class Bio extends Component {
           <S.table sx={{ pt: 20, width: 200, marginX: 18 }}>
             <thead>
               <S.tr>
-                <S.th colSpan="12">writer's block destroyer</S.th>
+                <S.th colSpan="12">writer's block be gone</S.th>
               </S.tr>
             </thead>
           </S.table>
